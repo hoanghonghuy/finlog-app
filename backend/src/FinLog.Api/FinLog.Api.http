@@ -1,0 +1,6 @@
+@FinLog.Api_HostAddress = http://localhost:5251
+
+GET {{FinLog.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
